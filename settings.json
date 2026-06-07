@@ -8,7 +8,7 @@
   "server": {
     "ip": "BHOOMIT_12.aternos.me",
     "port": 31071,
-    "version": "1.26.2"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
